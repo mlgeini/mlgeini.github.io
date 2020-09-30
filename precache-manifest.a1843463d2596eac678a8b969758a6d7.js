@@ -1,18 +1,22 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "413f77010e772722be7c",
-    "url": "/css/app.bf2b1964.css"
+    "revision": "c00e11a234ed7d55af38",
+    "url": "/css/Amap.15b87416.css"
   },
   {
-    "revision": "37b226ea699b67ada1eb",
+    "revision": "11804bb67167e3cc1b70",
+    "url": "/css/app.d2adf894.css"
+  },
+  {
+    "revision": "86695863900ff7154cc0",
     "url": "/css/baiduMaps.1cd0a9d8.css"
   },
   {
-    "revision": "58baa437fd3ee206c8e6",
+    "revision": "8888635c16fb1a102925",
     "url": "/css/chunk-vendors.8ffb1193.css"
   },
   {
-    "revision": "abd1a88c5459d35fdf16",
+    "revision": "2e5f5f9fbc168d233677",
     "url": "/css/touristAttraction.1841a894.css"
   },
   {
@@ -268,24 +272,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/weather-icon/999.png"
   },
   {
-    "revision": "f6b1a39c7068a7354bb05624ecdd20fb",
+    "revision": "9409e7fd0fc74b8f23103ba9abbc9161",
     "url": "/index.html"
   },
   {
-    "revision": "413f77010e772722be7c",
-    "url": "/js/app.d5d038f3.js"
+    "revision": "c00e11a234ed7d55af38",
+    "url": "/js/Amap.26ad3bc1.js"
   },
   {
-    "revision": "37b226ea699b67ada1eb",
-    "url": "/js/baiduMaps.39a59f74.js"
+    "revision": "11804bb67167e3cc1b70",
+    "url": "/js/app.975adb3d.js"
   },
   {
-    "revision": "58baa437fd3ee206c8e6",
-    "url": "/js/chunk-vendors.11a98628.js"
+    "revision": "86695863900ff7154cc0",
+    "url": "/js/baiduMaps.68fdbc76.js"
   },
   {
-    "revision": "abd1a88c5459d35fdf16",
-    "url": "/js/touristAttraction.bccd3e94.js"
+    "revision": "8888635c16fb1a102925",
+    "url": "/js/chunk-vendors.36273bad.js"
+  },
+  {
+    "revision": "2e5f5f9fbc168d233677",
+    "url": "/js/touristAttraction.0babb721.js"
   },
   {
     "revision": "b00c769e3f537638661235f99959d211",
