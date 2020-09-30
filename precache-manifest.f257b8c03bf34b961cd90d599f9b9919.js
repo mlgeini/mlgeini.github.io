@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "009fcdbcd995df5f7f0a",
-    "url": "/css/Amap.f7471354.css"
+    "revision": "07ddac179df1889cee79",
+    "url": "/css/Amap.5b3609fa.css"
   },
   {
-    "revision": "c72a1657e490aa0f6006",
+    "revision": "163b0508771c36e23b71",
     "url": "/css/app.d2adf894.css"
   },
   {
-    "revision": "b14180241192c178b103",
-    "url": "/css/baiduMaps.d2baa742.css"
+    "revision": "9283408425747a125e52",
+    "url": "/css/baiduMaps.8583b8a6.css"
   },
   {
     "revision": "58baa437fd3ee206c8e6",
@@ -272,20 +272,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/weather-icon/999.png"
   },
   {
-    "revision": "57786fef09240ea8e365220734552ea4",
+    "revision": "5ae2bbce6ef2071a9118ca8592f00f51",
     "url": "/index.html"
   },
   {
-    "revision": "009fcdbcd995df5f7f0a",
-    "url": "/js/Amap.8866bc4b.js"
+    "revision": "07ddac179df1889cee79",
+    "url": "/js/Amap.46933e1d.js"
   },
   {
-    "revision": "c72a1657e490aa0f6006",
-    "url": "/js/app.bff46ed7.js"
+    "revision": "163b0508771c36e23b71",
+    "url": "/js/app.eaf57dea.js"
   },
   {
-    "revision": "b14180241192c178b103",
-    "url": "/js/baiduMaps.648280e9.js"
+    "revision": "9283408425747a125e52",
+    "url": "/js/baiduMaps.979237c4.js"
   },
   {
     "revision": "58baa437fd3ee206c8e6",
