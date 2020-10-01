@@ -4,12 +4,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/Amap.5b3609fa.css"
   },
   {
-    "revision": "3317eae27d12538a40c2",
+    "revision": "45821445647734b9f166",
     "url": "/css/app.d2adf894.css"
   },
   {
-    "revision": "102aa289e3d85b83f38d",
-    "url": "/css/baiduMaps.74f8c058.css"
+    "revision": "2ba14f4f4cb8246ed044",
+    "url": "/css/baiduMaps.27d9c158.css"
   },
   {
     "revision": "d3d59f2d2eda9b57f5a9",
@@ -272,7 +272,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/weather-icon/999.png"
   },
   {
-    "revision": "d6cacb033d564e8cb9d92a535a72e5a0",
+    "revision": "339fd21e5921b983f51bf773933f3e97",
     "url": "/index.html"
   },
   {
@@ -280,12 +280,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/Amap.46933e1d.js"
   },
   {
-    "revision": "3317eae27d12538a40c2",
-    "url": "/js/app.482d1430.js"
+    "revision": "45821445647734b9f166",
+    "url": "/js/app.bcb8d6f2.js"
   },
   {
-    "revision": "102aa289e3d85b83f38d",
-    "url": "/js/baiduMaps.1e1221f0.js"
+    "revision": "2ba14f4f4cb8246ed044",
+    "url": "/js/baiduMaps.df18b4f9.js"
   },
   {
     "revision": "d3d59f2d2eda9b57f5a9",
