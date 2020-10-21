@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/Amap.5b3609fa.css"
   },
   {
-    "revision": "45821445647734b9f166",
-    "url": "/css/app.d2adf894.css"
+    "revision": "5101d6f29a15ce1b55d0",
+    "url": "/css/app.3e9855a8.css"
   },
   {
     "revision": "2ba14f4f4cb8246ed044",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-vendors.f7d4c696.css"
   },
   {
-    "revision": "a87f589cfa2add7f3566",
-    "url": "/css/touristAttraction.1841a894.css"
+    "revision": "60f4c461a84caf679528",
+    "url": "/css/touristAttraction.1f2c70b8.css"
   },
   {
     "revision": "535877f50039c0cb49a6196a5b7517cd",
@@ -272,7 +272,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/weather-icon/999.png"
   },
   {
-    "revision": "339fd21e5921b983f51bf773933f3e97",
+    "revision": "e8e2e6bc49683ef036fffa563fcdf621",
     "url": "/index.html"
   },
   {
@@ -280,8 +280,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/Amap.46933e1d.js"
   },
   {
-    "revision": "45821445647734b9f166",
-    "url": "/js/app.bcb8d6f2.js"
+    "revision": "5101d6f29a15ce1b55d0",
+    "url": "/js/app.78034083.js"
   },
   {
     "revision": "2ba14f4f4cb8246ed044",
@@ -292,8 +292,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-vendors.8ed38d02.js"
   },
   {
-    "revision": "a87f589cfa2add7f3566",
-    "url": "/js/touristAttraction.29226c05.js"
+    "revision": "60f4c461a84caf679528",
+    "url": "/js/touristAttraction.a6cf66a2.js"
   },
   {
     "revision": "b00c769e3f537638661235f99959d211",
