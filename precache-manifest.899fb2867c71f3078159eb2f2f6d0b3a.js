@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/Amap.5b3609fa.css"
   },
   {
-    "revision": "5101d6f29a15ce1b55d0",
-    "url": "/css/app.3e9855a8.css"
+    "revision": "b6d8ebd17ea2d3f9ccb8",
+    "url": "/css/app.16250db1.css"
   },
   {
     "revision": "2ba14f4f4cb8246ed044",
@@ -272,7 +272,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/weather-icon/999.png"
   },
   {
-    "revision": "e8e2e6bc49683ef036fffa563fcdf621",
+    "revision": "9dc38181bfeff5a49371cfb08104a4ed",
     "url": "/index.html"
   },
   {
@@ -280,7 +280,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/Amap.46933e1d.js"
   },
   {
-    "revision": "5101d6f29a15ce1b55d0",
+    "revision": "b6d8ebd17ea2d3f9ccb8",
     "url": "/js/app.78034083.js"
   },
   {
