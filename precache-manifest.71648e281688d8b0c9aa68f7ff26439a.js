@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/Amap.5b3609fa.css"
   },
   {
-    "revision": "b6d8ebd17ea2d3f9ccb8",
-    "url": "/css/app.16250db1.css"
+    "revision": "c8933f7be77817adcfba",
+    "url": "/css/app.79609ed5.css"
   },
   {
     "revision": "2ba14f4f4cb8246ed044",
@@ -14,6 +14,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d3d59f2d2eda9b57f5a9",
     "url": "/css/chunk-vendors.f7d4c696.css"
+  },
+  {
+    "revision": "571887d6c9426e64fb05",
+    "url": "/css/ninehouse.edfe0a51.css"
   },
   {
     "revision": "60f4c461a84caf679528",
@@ -272,7 +276,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/weather-icon/999.png"
   },
   {
-    "revision": "9dc38181bfeff5a49371cfb08104a4ed",
+    "revision": "b1934b976a337b0f95b0b8954a035fa5",
     "url": "/index.html"
   },
   {
@@ -280,8 +284,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/Amap.46933e1d.js"
   },
   {
-    "revision": "b6d8ebd17ea2d3f9ccb8",
-    "url": "/js/app.78034083.js"
+    "revision": "c8933f7be77817adcfba",
+    "url": "/js/app.613b101a.js"
   },
   {
     "revision": "2ba14f4f4cb8246ed044",
@@ -290,6 +294,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d3d59f2d2eda9b57f5a9",
     "url": "/js/chunk-vendors.8ed38d02.js"
+  },
+  {
+    "revision": "571887d6c9426e64fb05",
+    "url": "/js/ninehouse.5688b0ab.js"
   },
   {
     "revision": "60f4c461a84caf679528",
