@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.71648e281688d8b0c9aa68f7ff26439a.js"
+  "/precache-manifest.86893eb46e03e14abf5c212781d82fcc.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "xiaolong.an"});

@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/Amap.5b3609fa.css"
   },
   {
-    "revision": "c8933f7be77817adcfba",
+    "revision": "acf182bec8359eeb9abd",
     "url": "/css/app.79609ed5.css"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-vendors.f7d4c696.css"
   },
   {
-    "revision": "571887d6c9426e64fb05",
+    "revision": "15070d8c125b34ec0d7d",
     "url": "/css/ninehouse.edfe0a51.css"
   },
   {
@@ -276,7 +276,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/weather-icon/999.png"
   },
   {
-    "revision": "b1934b976a337b0f95b0b8954a035fa5",
+    "revision": "89036e4e57dae5820712cecdf089a5d1",
     "url": "/index.html"
   },
   {
@@ -284,8 +284,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/Amap.46933e1d.js"
   },
   {
-    "revision": "c8933f7be77817adcfba",
-    "url": "/js/app.613b101a.js"
+    "revision": "acf182bec8359eeb9abd",
+    "url": "/js/app.1037904c.js"
   },
   {
     "revision": "2ba14f4f4cb8246ed044",
@@ -296,8 +296,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-vendors.8ed38d02.js"
   },
   {
-    "revision": "571887d6c9426e64fb05",
-    "url": "/js/ninehouse.5688b0ab.js"
+    "revision": "15070d8c125b34ec0d7d",
+    "url": "/js/ninehouse.dff67e6c.js"
   },
   {
     "revision": "60f4c461a84caf679528",
